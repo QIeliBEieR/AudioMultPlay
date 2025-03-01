@@ -1,5 +1,5 @@
 # AudioMultPlay
-Windows平台多音频同步输出播放
+Windows平台多设备同步输出音频播放
 
 # 使用方法
 1. pip install requirments.txt
